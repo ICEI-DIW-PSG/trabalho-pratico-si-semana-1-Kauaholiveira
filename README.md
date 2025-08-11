@@ -8,12 +8,11 @@ Nome: Kauã Henrique de Oliveira
 Matricula: 903204
 
 ## Tela de inspeção com navegador
-
-![print da tela de inspeção do seu navegador](images/![alt text](ferramentas-1.png)
+![Print da tela de inspeção com navegador ](ferramentas-1.png)
 
 ## Tela de projeto no Replit
 
-![print da tela do Replit](images/![alt text](replit.png)
+![Print da Tela de projeto no Replit](replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
